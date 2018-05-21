@@ -7,7 +7,7 @@
 * **Kubernetes is a platform and container orchestration tool for automating deployment, scaling, and operations of application containers.**
 * **Kubernetes supports Containerd \(docker\), Rkt, Cri-o containers**
 
-An ecosystem of plug-ins for scheduling, storage & networking
+Kubernetes abstracts away the underlying hardware of the nodes and provides a uniform interface for application to be both deployed and consume and shred pool of resource 
 
 Manage applications , not machines
 

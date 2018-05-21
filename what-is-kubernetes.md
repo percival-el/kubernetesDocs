@@ -7,3 +7,5 @@
 * **Kubernetes is a platform and container orchestration tool for automating deployment, scaling, and operations of application containers.**
 * **Kubernetes supports Containerd \(docker\), Rkt, Cri-o containers**
 
+![](.gitbook/assets/kubernetes_gopher.png)
+

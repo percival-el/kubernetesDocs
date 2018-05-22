@@ -6,3 +6,12 @@ Kubernetes system components communicate only with the API server. They don’t 
 
 ![](.gitbook/assets/kubernetes-34.png)
 
+
+
+The Control Plane is what controls and makes the whole cluster function.The components that make up the Control Plane are
+
+* The etcd distributed persistent storage
+* The API server
+* The Scheduler
+* The Controller Manager
+

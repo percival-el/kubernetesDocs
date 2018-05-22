@@ -16,3 +16,10 @@ From a physical perspective, a Kubernetes cluster consists of:
 
 ![ kubernetes Internals](.gitbook/assets/kubernetes-4.png)
 
+
+
+Kubernetes cluster is split into two parts:
+
+* The Kubernetes Control Plane 
+* The \(worker\) nodes
+

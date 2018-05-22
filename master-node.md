@@ -15,14 +15,14 @@ The Control Plane is what controls and makes the whole cluster function.The comp
 * The Scheduler
 * The Controller Manager
 
-**Add-on components**
+#### **Add-on components**
 
 Beside the Control Plane components and the components running on the nodes,
-
-
 
 * The Kubernetes DNS server
 * The Dashboard
 * An Ingress controller
 * The Container Network Interface network plugin 
+
+
 
